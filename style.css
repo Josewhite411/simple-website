@@ -1,0 +1,78 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.carousel-content img {
+  max-height: 600px;
+  max-width: 100%;
+  margin-bottom: 2rem;
+}
+
+.navbar-home {
+  background-color: #222;
+  border: none;
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+
+
+.navbar-home .navbar-brand {
+  color: #fff;
+  font-weight: bold;
+}
+
+.about-jets {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.container {
+
+  max-width: 50vw;
+  margin: 50px 30px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+footer {
+  width: 100%;
+  background-color: #222;
+  padding: 20px 0px;
+  color: #33CCCC;
+  font-size: 12px;
+}
+
+.content {
+  text-align: center;
+  font-family: lato;
+  font-weight: 400;
+  font-size: 14px;
+  color: #33CCCC;
+}
+
+.footer-title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
